@@ -1,5 +1,5 @@
 package testGit;
 
-public class anottest {
+public class ytytty {
 
 }
